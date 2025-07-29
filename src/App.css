@@ -9,3 +9,14 @@ ul,li{
   padding: 10px;
   column-gap: 10px;
 }
+.form >div>label{
+   display: block;
+}
+.form >div{
+  padding-bottom: 15px;
+}
+.form >div>input,
+.form>div>textarea{
+  padding: 5px;
+}
+
